@@ -1,0 +1,30 @@
+/* Styling different font styles */
+h1 {
+    text-align: center;
+    color: darkblue;
+}
+
+/* Different font families */
+.serif {
+    font-family: "Times New Roman", serif;
+    font-size: 20px;
+    color: red;
+}
+
+.sans-serif {
+    font-family: Arial, sans-serif;
+    font-size: 22px;
+    color: green;
+}
+
+.monospace {
+    font-family: "Courier New", monospace;
+    font-size: 24px;
+    color: blue;
+}
+
+.cursive {
+    font-family: cursive;
+    font-size: 26px;
+    color: purple;
+}

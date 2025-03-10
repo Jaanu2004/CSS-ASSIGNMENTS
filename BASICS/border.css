@@ -1,0 +1,23 @@
+/* Styling the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+/* Styling the box with different borders */
+.box {
+    width: 300px;
+    padding: 20px;
+    margin: 50px auto;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: white;
+
+    /* Different borders on each side */
+    border-left: 8px solid red;       /* Solid border on the left */
+    border-top: 6px dashed blue;      /* Dashed border on the top */
+    border-right: 10px dotted green;  /* Dotted border on the right */
+    border-bottom: 5px double black;  /* Double border on the bottom */
+}

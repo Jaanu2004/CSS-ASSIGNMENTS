@@ -1,0 +1,21 @@
+/* 
+   This is a multi-line comment in CSS 
+   It describes the styles applied to the page
+*/
+
+/* Styling the body */
+body {
+    background-color: lightblue; /* Setting background color */
+}
+
+/* Styling the heading */
+h1 {
+    color: darkblue; /* Heading text color */
+    text-align: center; /* Centering the heading */
+}
+
+/* Styling paragraphs */
+p {
+    font-size: 18px;
+    color: black; /* Text color */
+}

@@ -1,0 +1,11 @@
+/* Box with height and width */
+.box {
+    width: 50%; /* 50% of the screen width */
+    height: 200px; /* Fixed height */
+    background-color: lightblue;
+    text-align: center;
+    line-height: 200px;
+    font-size: 24px;
+    margin: 50px auto;
+    border: 2px solid black;
+}
