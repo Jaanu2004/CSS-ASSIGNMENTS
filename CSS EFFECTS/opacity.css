@@ -1,0 +1,11 @@
+.image-container img {
+    width: 300px;  /* Adjust as needed */
+    height: auto;
+    opacity: 0.5;  /* 50% transparent */
+    transition: opacity 0.5s ease-in-out;
+}
+
+/* On hover, make the image fully visible */
+.image-container img:hover {
+    opacity: 1;
+}

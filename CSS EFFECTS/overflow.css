@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.scroll-box {
+    width: 400px;
+    height: 150px;
+    border: 2px solid #333;
+    padding: 10px;
+    margin: auto;
+    overflow: scroll; /* Enables scrolling when content overflows */
+    background-color: #f5f5f5;
+}

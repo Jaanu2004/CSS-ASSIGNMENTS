@@ -1,0 +1,16 @@
+.image-box {
+    width: 300px;
+    margin: 50px auto;
+    padding: 10px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); /* Box shadow */
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.image-box img {
+    width: 100%;
+    display: block;
+}
+
+.image-box:hover {
+    box-shadow: 10px 10px 25px rgba(144, 75, 75, 0.5); /* Shadow effect on hover */
+}
