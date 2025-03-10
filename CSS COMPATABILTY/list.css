@@ -1,0 +1,8 @@
+.custom-list {
+    list-style-type: square;
+    padding: 10px;
+}
+
+.custom-list li {
+    margin: 5px 0;
+}
