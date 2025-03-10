@@ -1,0 +1,36 @@
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Grid container */
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 20px;
+}
+
+/* Grid items */
+.grid-item {
+    background: lightgray;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Image and video styling */
+img, video {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+/* Responsive Media Queries */
+@media (max-width: 768px) {
+    .grid-container {
+        grid-template-columns: 1fr;
+    }
+}
