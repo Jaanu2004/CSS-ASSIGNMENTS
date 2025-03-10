@@ -1,0 +1,10 @@
+body {
+    /* Multiple background images */
+    background-image: url('image1.jpg'), url('image2.jpg');
+    background-size: 50% 100%,50% 100%,cover;
+    background-position: left top, right bottom;
+    background-repeat: no-repeat,no-repeat;
+    background-attachment: fixed, fixed;
+    
+    
+}

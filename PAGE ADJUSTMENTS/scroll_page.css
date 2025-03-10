@@ -1,0 +1,15 @@
+/* Smooth scrolling */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Style for navigation links */
+.scroll-link {
+    display: block;
+    text-align: center;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}

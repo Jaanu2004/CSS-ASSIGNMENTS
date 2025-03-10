@@ -1,0 +1,13 @@
+/* Padding Example */
+.padding-box {
+    background-color: lightblue;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+/* Margin Example */
+.margin-box {
+    background-color: lightcoral;
+    margin: 20px;
+    border: 2px solid black;
+}

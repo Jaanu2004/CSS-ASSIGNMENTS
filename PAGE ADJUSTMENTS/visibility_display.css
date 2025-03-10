@@ -1,0 +1,11 @@
+/* Visibility */
+.visible { visibility: visible; }
+.hidden { visibility: hidden; }
+.collapse { visibility: collapse; }
+
+/* Display */
+.none { display: none; }
+.inline { display: inline; }
+.block { display: block; }
+.contents { display: contents; }
+.list-item { display: list-item; }
